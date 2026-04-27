@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+HEAD
 Log 1: System started
 Log 2: User login
 Log 3: API triggered
 
 Log 1: System started - FEATURE CHANGE
-=======
+
 Log 1: System started - MAIN CHANGE
->>>>>>> main
+main

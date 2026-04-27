@@ -1,1 +1,3 @@
-
+Log 1: System started
+Log 2: User login
+Log 3: API triggered

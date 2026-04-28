@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.env
+
+# Google API Credentials (DO NOT PUSH TO GITHUB)
+credentials.json
+token.json
+
+# Local Data and Databases
+data/docs/*
+!data/docs/.gitkeep
+vector_store.pkl
+
+# IDE files
+.vscode/
+.idea/
